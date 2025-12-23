@@ -87,6 +87,7 @@
   </distributionManagement>
 
   <properties>
+    <sonar.organization>vcatest</sonar.organization>
     <javaVersion>8</javaVersion>
     <mavenVersion>3.6.3</mavenVersion>
     <resolverVersion>1.4.1</resolverVersion>
